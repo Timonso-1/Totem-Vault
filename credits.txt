@@ -1,0 +1,36 @@
+=====================================
+        Totem Vault Resource Pack
+======================================
+
+---------------------------------------
+
+3D Artist:
+
+- xNiklas
+- Colerfull
+- Danilo
+- KamiIIe
+
+---------------------------------------
+
+Texture:
+- Colerfull
+- Danilo
+- KamiIIe
+- HiorCraft
+- xNiklas
+
+---------------------------------------
+
+Dev:
+- KamiIIe
+- HiorCraft
+
+---------------------------------------
+
+Version:
+  1.21.5+
+
+---------------------------------------
+
+© Do not redistribute without permission.
