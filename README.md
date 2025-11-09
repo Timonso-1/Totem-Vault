@@ -43,8 +43,19 @@ Onso:
 - Timonso
 
 ---
-Weitre :
+Ammo:
 
 - NotAmmo
+
+---
+Cast:
+
 - CastCrafter
+
+---
+Stegi:
+
 - Stxgi
+
+---
+
