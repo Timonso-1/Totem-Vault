@@ -5,10 +5,45 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "BastiGHG",
+        "when": "BastiGHG_v5",
         "model": {
           "type": "minecraft:model",
           "model": "plushies:item/totem_of_undying_bastighg"
+        }
+      },
+       {
+        "when": "BastiGHG_v3",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bastighg_3"
+        }
+      },
+       {
+        "when": "BastiGHG_v4",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bastighg_v4"
+        }
+      },
+        {
+        "when": "BastiGHG_v1M",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bastighg_1m"
+        }
+      },
+       {
+        "when": "BastiGHG_v1.5M",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bastighg_15m"
+        }
+      },
+       {
+        "when": "BastiGHG_ac",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_bastighg_ac"
         }
       },
       {
