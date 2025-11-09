@@ -9,8 +9,7 @@ Niklas:
 
 ----------------------
 Hior:
-
-- Caffee
+- HiorCraft
 - Fuxel
 
 ----------------------
@@ -32,6 +31,11 @@ Ole:
 Alina:
 
 - Floweryalina
+
+----------------------
+Lou:
+
+- SoulLou
 
 ----------------------
 Weitre :
