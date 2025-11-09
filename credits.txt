@@ -17,7 +17,6 @@ Texture:
 - Colerfull
 - Danilo
 - KamiIIe
-- HiorCraft
 - xNiklas
 
 ---------------------------------------
@@ -25,6 +24,7 @@ Texture:
 Dev:
 - KamiIIe
 - HiorCraft
+- Tomonso
 
 ---------------------------------------
 
