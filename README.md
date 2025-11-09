@@ -40,6 +40,6 @@ Lou:
 ----------------------
 Weitre :
 
-- Notammo
+- NotAmmo
 - CastCrafter
 - Stxgi
