@@ -67,6 +67,13 @@
           "model": "plushies:item/totem_of_undying_fuxel"
         }
       },
+       {
+        "when": "Fuzzy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/totem_of_undying_fox"
+        }
+      },
       {
         "when": "NotAmmo",
         "model": {
